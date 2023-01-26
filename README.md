@@ -11,4 +11,4 @@ Answers to the following questions are presented in the Notebook according to th
 5. Is there a relationship between compensation and years of experience?
 6. Does the number of years a person has worked for a firm affect their salary?
 7. Does race and pay have a relationship?
-8. Where can I get IT jobs?
+8. Where can a person get IT jobs?
